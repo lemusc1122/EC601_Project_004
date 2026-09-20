@@ -11,3 +11,4 @@ The goal here is to track requirements for the seminar paper due before 2026 12 
   - My view of the work
   - What would i contribute? & next steps
 ## $\color{#00ff00}\textsf{Seminar attended}$
+https://www.bu.edu/eng/news-events/events-calendar/?eid=321704 
